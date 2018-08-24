@@ -1,0 +1,24 @@
+footer {
+  padding: 15px 15px 50px 15px;
+  color: orange;
+}
+
+footer {
+  height: 6vh;
+}
+
+header {
+  font-size: 1.5em;
+  height: 75px;
+}
+
+body {
+  height: 100%;
+  margin-top: 70px;
+  margin-bottom: 10vh;
+}
+
+
+#map {
+  height: 100%;
+}
